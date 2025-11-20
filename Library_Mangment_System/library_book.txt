@@ -1,0 +1,10 @@
+101 C_Programming Dennis_Ritchie 5 2
+102 Data_Structures Mark_Weiss 3 3
+103 Python_Crash_Course Eric_Matthes 4 0
+104 Introduction_to_Algorithms Cormen 6 3
+105 Clean_Code Robert_Martin 2 0
+106 Operating_Systems Galvin 4 1
+107 Computer_Networks Andrew_Tanenbaum 5 0
+108 Artificial_Intelligence Stuart_Russell 3 2
+109 Database_Systems Navathe 4 0
+110 Java_Complete_Reference Herbert_Schildt 3 1
